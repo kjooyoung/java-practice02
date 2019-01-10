@@ -7,7 +7,7 @@ public class Prob03 {
 
 		// 원래 배열 원소 출력
 		printCharArray(c);
-
+		
 		// 공백 문자 바꾸기
 		replaceSpace(c);
 
